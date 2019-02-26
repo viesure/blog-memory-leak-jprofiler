@@ -18,7 +18,7 @@ public class Model {
         return attribute;
     }
 
-    public static class Attribute{
+    public /* static */ class Attribute{
         private String name = "random Attribute";
         private String value = "42";
     }
